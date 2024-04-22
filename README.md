@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, spring boot, wildfly, python, react, javascript.
 - 💞️ I’m looking to collaborate on micro-services
 - 📫 How to reach me: samj828s@gmail.com, josuedesantiago(discord)
-- 😄 Pronouns: I want to keep learning all the time
+- 😄 I want to keep learning all the time
 - ⚡ Fun fact: I would like to go back to playing basketball and rollerblading.
 
 <!---
